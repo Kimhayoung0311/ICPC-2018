@@ -13,6 +13,7 @@
 		66041361217239D700180361 /* D_Maching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66041360217239D700180361 /* D_Maching.cpp */; };
 		66041363217239F100180361 /* E_Panokseon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66041362217239F100180361 /* E_Panokseon.cpp */; };
 		66041365217239FE00180361 /* F_Parcel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66041364217239FE00180361 /* F_Parcel.cpp */; };
+		6604136721723C4500180361 /* G_Passport-Control.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6604136621723C4500180361 /* G_Passport-Control.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		66041360217239D700180361 /* D_Maching.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = D_Maching.cpp; sourceTree = "<group>"; };
 		66041362217239F100180361 /* E_Panokseon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = E_Panokseon.cpp; sourceTree = "<group>"; };
 		66041364217239FE00180361 /* F_Parcel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F_Parcel.cpp; sourceTree = "<group>"; };
+		6604136621723C4500180361 /* G_Passport-Control.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "G_Passport-Control.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				66041360217239D700180361 /* D_Maching.cpp */,
 				66041362217239F100180361 /* E_Panokseon.cpp */,
 				66041364217239FE00180361 /* F_Parcel.cpp */,
+				6604136621723C4500180361 /* G_Passport-Control.cpp */,
 			);
 			path = 2018_internet_competition;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 				66041361217239D700180361 /* D_Maching.cpp in Sources */,
 				6604135B217238B800180361 /* B_Farm.cpp in Sources */,
 				6604135D217239A400180361 /* A_Black-Chain.cpp in Sources */,
+				6604136721723C4500180361 /* G_Passport-Control.cpp in Sources */,
 				66041363217239F100180361 /* E_Panokseon.cpp in Sources */,
 				6604135F217239C300180361 /* C_Lucid-Strings.cpp in Sources */,
 				66041365217239FE00180361 /* F_Parcel.cpp in Sources */,

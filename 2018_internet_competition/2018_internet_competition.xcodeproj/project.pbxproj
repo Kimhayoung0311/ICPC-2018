@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		6604135B217238B800180361 /* B_Farm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6604135A217238B800180361 /* B_Farm.cpp */; };
+		6604135D217239A400180361 /* A_Black-Chain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6604135C217239A400180361 /* A_Black-Chain.cpp */; };
+		6604135F217239C300180361 /* C_Lucid-Strings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6604135E217239C300180361 /* C_Lucid-Strings.cpp */; };
+		66041361217239D700180361 /* D_Maching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66041360217239D700180361 /* D_Maching.cpp */; };
+		66041363217239F100180361 /* E_Panokseon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66041362217239F100180361 /* E_Panokseon.cpp */; };
+		66041365217239FE00180361 /* F_Parcel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66041364217239FE00180361 /* F_Parcel.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		660413502172389D00180361 /* 2018_internet_competition */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2018_internet_competition; sourceTree = BUILT_PRODUCTS_DIR; };
 		6604135A217238B800180361 /* B_Farm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = B_Farm.cpp; sourceTree = "<group>"; };
+		6604135C217239A400180361 /* A_Black-Chain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A_Black-Chain.cpp"; sourceTree = "<group>"; };
+		6604135E217239C300180361 /* C_Lucid-Strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C_Lucid-Strings.cpp"; sourceTree = "<group>"; };
+		66041360217239D700180361 /* D_Maching.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = D_Maching.cpp; sourceTree = "<group>"; };
+		66041362217239F100180361 /* E_Panokseon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = E_Panokseon.cpp; sourceTree = "<group>"; };
+		66041364217239FE00180361 /* F_Parcel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F_Parcel.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				6604135A217238B800180361 /* B_Farm.cpp */,
+				6604135C217239A400180361 /* A_Black-Chain.cpp */,
+				6604135E217239C300180361 /* C_Lucid-Strings.cpp */,
+				66041360217239D700180361 /* D_Maching.cpp */,
+				66041362217239F100180361 /* E_Panokseon.cpp */,
+				66041364217239FE00180361 /* F_Parcel.cpp */,
 			);
 			path = 2018_internet_competition;
 			sourceTree = "<group>";
@@ -118,7 +133,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66041361217239D700180361 /* D_Maching.cpp in Sources */,
 				6604135B217238B800180361 /* B_Farm.cpp in Sources */,
+				6604135D217239A400180361 /* A_Black-Chain.cpp in Sources */,
+				66041363217239F100180361 /* E_Panokseon.cpp in Sources */,
+				6604135F217239C300180361 /* C_Lucid-Strings.cpp in Sources */,
+				66041365217239FE00180361 /* F_Parcel.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
